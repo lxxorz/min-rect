@@ -34,14 +34,6 @@ console.log(mbr)
  */
 ```
 
-<!-- ## Sponsors
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/bjorn/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/bjorn/static/sponsors.svg'/>
-  </a>
-</p> -->
-
 ## License
 
 [MIT](./LICENSE) License © 2024-PRESENT [Bjorn](https://github.com/lxxorz)
